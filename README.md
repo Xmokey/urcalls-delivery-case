@@ -13,6 +13,7 @@ No proprietary source code is included.
 ---
 
 ## My Role
+- Project Manager and principal team lead
 - Led end-to-end delivery across multiple workstreams
 - Coordinated developers, designers, and non-technical teams
 - Translated business requirements into clear execution plans
