@@ -50,7 +50,7 @@ No proprietary source code is included.
 ---
 
 ## Evidence & Artifacts
-Delivery artifacts and screenshots will be added in the `/assets` and `/docs` folders.
+Delivery artifacts and screenshots are available in the `/assets` and `/docs` folders.
 
 ---
 
