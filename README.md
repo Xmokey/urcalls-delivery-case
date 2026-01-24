@@ -1,60 +1,85 @@
-# UrCalls – Video Conferencing Application  
-## Project Delivery Case Study
+# UrCalls — Video Conferencing Platform  
+### Product Delivery Case Study
+
+> **Role:** Project Director / Delivery Lead  
+> **Industry:** SaaS · Video Conferencing · Digital Collaboration  
+> **Status:** Delivered  
+> **Live Product:** https://urcalls.com
 
 ---
 
 ## Overview
-UrCalls is a video conferencing software product with special features like AI Meeting Notes, Webinar, Breakout Rooms, Whiteboard, Meeting Recording, User Customisation, Team/Seats Management, etc.
-I served as Project Director, responsible for coordinating delivery across product, development, and supporting functions.
 
-This repository documents product delivery and outcomes.  
+UrCalls is a full-featured video conferencing platform supporting meetings, webinars, recordings, breakout rooms, whiteboards, AI meeting notes, and team/seat management.
+
+I served as **Project Director**, responsible for coordinating end-to-end delivery across product, engineering, design, marketing, and supporting operational functions.
+
+This repository documents **what was delivered**, **how delivery was managed**, and **the resulting product artifacts**.  
 No proprietary source code is included.
-
-**Live product:** https://urcalls.com
 
 ---
 
-## My Role
-- Project Manager and principal team lead
-- Led end-to-end delivery across multiple workstreams
-- Coordinated developers, designers, and non-technical teams
-- Translated business requirements into clear execution plans
-- Managed timelines, dependencies, and delivery risks
-- Acted as the primary coordination point between stakeholders
+## My Role & Responsibilities
+
+I led delivery across multiple parallel workstreams, acting as the central coordination point between technical and non-technical teams.
+
+**Key responsibilities included:**
+- End-to-end product delivery ownership
+- Translating business requirements into executable delivery plans
+- Coordinating developers, designers, and supporting teams
+- Managing timelines, dependencies, and delivery risks
+- Ensuring alignment between product scope, execution, and launch readiness
+- Stakeholder communication and delivery reporting
 
 ---
 
 ## Scope of Work
-- Product delivery oversight
+
+- Product delivery oversight (core application features)
 - Software development coordination
 - Website delivery management
-- Marketing rollout coordination
-- Post-production stabilization support
+- Marketing campaign and rollout coordination
+- Post-launch stabilization and operational handover
 
 ---
 
 ## Tools & Working Environment
-- GitHub (documentation and delivery visibility)
-- Project management tools (Hubspot, Asana or similar)
-- Communication tools (email, whatsapp)
-- Marketing and CRM platforms (GHL where applicable)
-- Hosting and deployment coordination (non-technical)
+
+- **GitHub** — delivery documentation and visibility  
+- **Project management tools** — HubSpot, Asana (or similar)  
+- **Communication tools** — Email, WhatsApp  
+- **Marketing & CRM platforms** — GoHighLevel (where applicable)  
+- **Hosting & deployment coordination** — non-technical oversight
 
 ---
 
-## Outcomes
-- Product delivered
-- Supporting web assets completed
-- Teams aligned for ongoing operations
+## Delivery Outcomes
 
-> Specific internal metrics are excluded due to confidentiality.
+- Video conferencing product successfully delivered
+- Supporting website and digital assets completed
+- Cross-functional teams aligned for ongoing operations
+
+> Specific internal metrics and performance data are excluded due to confidentiality.
 
 ---
 
 ## Evidence & Artifacts
-Delivery artifacts and screenshots are available in the `/assets` and `/docs` folders.
+
+Product screenshots, delivery artifacts, and supporting documentation are available in:
+
+- `/assets` — UI screenshots and visual delivery evidence  
+- `/docs` — supporting delivery documentation
+
+These materials represent final or near-final product states produced during delivery.
 
 ---
 
-## Notes
-This repository is intended as a professional delivery case study, not a source code repository.
+## Repository Notes
+
+- This repository is intended as a **professional delivery case study**
+- It does **not** contain proprietary source code
+- The focus is on **delivery leadership, coordination, and outcomes**, not implementation
+
+---
+
+### End of Case Study
