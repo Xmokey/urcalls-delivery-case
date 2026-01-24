@@ -19,6 +19,15 @@ No proprietary source code is included.
 
 ---
 
+## Primary Product View
+
+![UrCalls Dashboard](assets/UrCalls%20Dashboard.png)
+
+**Dashboard Overview**  
+The central workspace where users manage meetings, webinars, recordings, and team activity.
+
+---
+
 ## My Role & Responsibilities
 
 I led delivery across multiple parallel workstreams, acting as the central coordination point between technical and non-technical teams.
@@ -30,6 +39,44 @@ I led delivery across multiple parallel workstreams, acting as the central coord
 - Managing timelines, dependencies, and delivery risks
 - Ensuring alignment between product scope, execution, and launch readiness
 - Stakeholder communication and delivery reporting
+
+---
+
+## Product Experience Highlights
+
+### Meeting Lifecycle
+
+![Meeting Pre-Join Screen](assets/UrCalls%20Meeting%20Pre-join%20screen.png)
+
+_Pre-meeting setup screen allowing users to configure audio and video before joining._
+
+![Meeting Room](assets/Urcalls%20Meeting%20Room.png)
+
+_Live meeting room interface supporting real-time video collaboration._
+
+---
+
+### Webinar & Recording Management
+
+![Webinar Tab](assets/UrCalls%20Dashboard---%20Webinar%20Tab.png)
+
+_Webinar creation and management interface._
+
+![Recording Tab](assets/UrCalls%20Dashboard---%20Recording%20Tab.png)
+
+_Access to recorded sessions for playback and review._
+
+---
+
+### Support & Access
+
+![Support Tab](assets/UrCalls%20Dashboard---%20Support%20Tab.png)
+
+_In-app support and assistance section._
+
+![Signin Page](assets/UrCalls%20Signin%20page.png)
+
+_User authentication and platform entry point._
 
 ---
 
@@ -65,12 +112,10 @@ I led delivery across multiple parallel workstreams, acting as the central coord
 
 ## Evidence & Artifacts
 
-Product screenshots, delivery artifacts, and supporting documentation are available in:
+Additional screenshots and delivery documentation are available in:
 
 - `/assets` — UI screenshots and visual delivery evidence  
 - `/docs` — supporting delivery documentation
-
-These materials represent final or near-final product states produced during delivery.
 
 ---
 
