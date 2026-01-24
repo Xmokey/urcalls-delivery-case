@@ -51,14 +51,14 @@ I led delivery across multiple parallel workstreams, acting as the central coord
 
 ![Meeting Pre-Join Screen](assets/UrCalls%20Meeting%20Pre-join%20screen.png)
 
-_Pre-meeting setup screen allowing users to configure audio and video before joining._
+_**Meeting Join interface:** Pre-meeting setup screen allowing users to configure audio and video before joining._
 
 ![Meeting Room With Speaker Spotlighting](assets/Urcalls%20Meeting%20Room.png)
-_live meeting room interface mode where the speaker is always in center spotlight and other participants are stacked on the right._
+_**Meeting Room Spotlight View:** live meeting room UI mode where the speaker is always in center spotlight and other participants are stacked on the right._
 
 ![Meeting Room Grid View](assets/Urcalls%20Meeting%20Room%202.png)
 
-_Live meeting room interface mode showing grid view where all paricipants appear on-screen._
+_**Meeting Room Grid View:** Live meeting room UI mode showing all paricipants on-screen._
 
 ---
 
