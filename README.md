@@ -23,7 +23,8 @@ No proprietary source code is included.
 
 ![UrCalls Meeting Screen UI](assets/UrCalls%20Meeting%20Screen%20UI.png)
 
-**Meeting Overview**
+**Live Meeting Overview**
+
 Live meeting interface showing real-time recording, multiple participants, AI Notes, Whiteboard, Screen-sharing, Break-out rooms, and other meeting controls.
 
 ![UrCalls Dashboard](assets/UrCalls%20Dashboard.png)
