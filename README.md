@@ -57,8 +57,9 @@ I led delivery across multiple parallel workstreams, acting as the central coord
 _Pre-meeting setup screen allowing users to configure audio and video before joining._
 
 ![Meeting Room](assets/Urcalls%20Meeting%20Room.png)
+![Meeting Room 2](assets/Urcalls%20Meeting%20Room%202.png)
 
-_Live meeting room interface supporting real-time video collaboration._
+_Dual live meeting room modes supporting grid view and speaker spotlighting._
 
 ---
 
