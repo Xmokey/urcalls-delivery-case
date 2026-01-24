@@ -23,14 +23,11 @@ No proprietary source code is included.
 
 ![UrCalls Meeting Screen UI](assets/UrCalls%20Meeting%20Screen%20UI.png)
 
-**Live Meeting Overview**
-
-Live meeting interface showing real-time recording, multiple participants, AI Notes, Whiteboard, Screen-sharing, Break-out rooms, and other meeting controls.
+_**Live Meeting Overview**: Live meeting interface showing real-time recording, multiple participants, AI Notes, Whiteboard, Screen-sharing, Break-out rooms, and other meeting controls._
 
 ![UrCalls Dashboard](assets/UrCalls%20Dashboard.png)
 
-**Dashboard Overview**  
-The central workspace where users manage meetings, webinars, recordings, and team activity.
+_**Dashboard Overview**: The central workspace where users manage meetings, webinars, recordings, and team activity._
 
 ---
 
