@@ -7,7 +7,7 @@
 UrCalls is a video conferencing software product with special features like AI Meeting Notes, Webinar, Breakout Rooms, Whiteboard, Meeting Recording, User Customisation, Team/Seats Management, etc.
 I served as Project Director, responsible for coordinating delivery across product, development, and supporting functions.
 
-This repository documents the delivery process and outcomes.  
+This repository documents product delivery and outcomes.  
 No proprietary source code is included.
 
 **Live product:** https://urcalls.com
